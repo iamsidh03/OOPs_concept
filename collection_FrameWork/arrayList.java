@@ -9,6 +9,8 @@ public class arrayList {
     public static void main(String[] args) {
         
     List<Integer> l=new ArrayList();
+    //we  an also implement list using linkedlist
+    List<Integer> l2=new LinkedList();
     l.add(4);
     l.add(12);
     l.add(133);
